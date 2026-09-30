@@ -14,7 +14,7 @@ API Backend (Node.js) untuk memproses ribuan pesanan (hingga 10.000 pesanan) sec
 - PostgreSQL
 
 ## Struktur Direktori & Deliverables
-Proyek ini telah memenuhi seluruh *Deliverables* (Poin 15) dengan susunan *repository* sebagai berikut:
+Susunan *repository* projek ini menggunakan layered architecture sebagai berikut:
 ```text
 SaaS_Merchant/
 ├── src/
